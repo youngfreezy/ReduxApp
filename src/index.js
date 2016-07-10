@@ -11,7 +11,7 @@ const API_KEY = 'AIzaSyDaLyBywgTR9PSAKSmbTL68Pxg8ll89dE0';
 
 class App extends Component {
   constructor(props) {
-    super(props)
+    super(props);
 
     this.state = { 
       videos: [],
